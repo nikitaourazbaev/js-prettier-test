@@ -21,6 +21,7 @@
     {
       "files": "*.liquid",
       "options": {
+        "parser": "liquid-html",
         "singleQuote": false
       }
     }
